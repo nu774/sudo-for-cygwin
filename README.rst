@@ -5,7 +5,7 @@ sudo for cygwin
 What is this?
 -------------
 
-Emurates Unix sudo in cygwin.
+Emulates Unix sudo in cygwin.
 
 You can use this like::
 
